@@ -1,4 +1,4 @@
-Světlá máslová jíška
+﻿Světlá máslová jíška
 ====================
 
 1 - 2 lžíce másla
@@ -8,3 +8,5 @@ Světlá máslová jíška
 Doporučení
 ----------
 Přidáme-li do jíšky smetanu nebo mléko, vyrobíme si tzv. bešamel.
+Bešamel je důležitou součástí dalších tradičních jídel jako jsou například lasagne.
+
